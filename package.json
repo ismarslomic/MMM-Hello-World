@@ -1,0 +1,19 @@
+{
+	"name": "mmm-hello-world",
+	"version": "1.0.0",
+	"description": "Magic Mirror example module in Javascript",
+	"main": "MMM-Hello-World.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ismarslomic/MMM-Hello-World.git"
+	},
+	"author": "ismar@slomic.no",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ismarslomic/MMM-Hello-World/issues"
+	},
+	"homepage": "https://github.com/ismarslomic/MMM-Hello-World",
+	"scripts": {},
+	"devDependencies": {},
+	"dependencies": {}
+}
