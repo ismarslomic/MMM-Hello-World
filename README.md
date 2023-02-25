@@ -1,7 +1,7 @@
 # Magic Mirror module: Hello world
 
 > Simple Magic Mirror module written in Javascript demonstrating use of the [core module file ](https://docs.magicmirror.builders/development/core-module-file.html#available-module-instance-properties) (frontend)
-> and [node helper](https://docs.magicmirror.builders/development/node-helper.html) (backend) in addition to using the nunjuks templates for rendering data.
+> and [node helper](https://docs.magicmirror.builders/development/node-helper.html) (backend) in addition to using the [nunjucks](https://mozilla.github.io/nunjucks/) templates for rendering data.
 >
 > See [Module Development Documentation](https://docs.magicmirror.builders/development/introduction.html) for more information.
 
