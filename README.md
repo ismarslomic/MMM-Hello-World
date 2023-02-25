@@ -20,7 +20,7 @@
 2. Change into the `MMM-Hello-World` module folder and install runtime dependencies with
    ```sh
    cd MMM-Hello-World
-   npm install --only=production
+   npm install --omit=dev
    ```
 
 ## Using the module
